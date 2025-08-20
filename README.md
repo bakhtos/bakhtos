@@ -1,4 +1,6 @@
-## Hi there 👋
+I am a Doctoral Researcher at the University of Oulu, Finland. I work in the unit of Empirical Software Engineering in Software, Systems, and Services at the Information Technology and Electrical Engineering Faculty. Previously, I received my Bachelor’s Degree in Science and Technology (Mathematics) and Master’s Degree in Computing Sciences (Machine Learning) from Tampere University, Finland, in 2021 and 2022, respectively. During that time, I also worked in the units of Cloud Engineering, Audio Processing, and Financial Data analysis, where I gained experience in applying mathematical and machine learning methods to a diverse range of problems.
+
+My current research interests include applying Static and Temporal Network Methods to networks encountered in the field of Software Engineering, such as networks of microservice architecture or developer collaboration. My work has been featured in IEEE SOSE, IEEE SCC, ACM SAC, ECSA, MSR, and ICSA conferences. I also served as Student Volunteer chair during the SANER 2024 conference in Rovaniemi, Finland.
 
 <!--
 **bakhtos/bakhtos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
